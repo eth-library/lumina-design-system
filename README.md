@@ -99,10 +99,6 @@ Timeless design is preferred over short-lived visual trends.
 
 ## Status
 
-Current version
+Current version: Draft (v0.1)
 
-Draft (v0.1)
-
-Maintainer
-
-ETH Library – Lumina Initiative
+Maintainer: ETH Library
