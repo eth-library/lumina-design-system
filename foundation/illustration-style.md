@@ -1,404 +1,471 @@
 # Illustration Style
 
-Lumina uses a modern corporate editorial illustration style.
+Lumina uses a modern editorial illustration style.
 
-The style should be clean, calm, intelligent and recognisable.
+The visual language combines the clarity of digital product design with the warmth of contemporary editorial illustration.
 
-It should feel suitable for an academic institution, a digital library environment and an AI-supported knowledge infrastructure.
+It is inspired by academic environments, modern universities, collaborative research spaces and Scandinavian design.
 
-Lumina illustrations should not look like generic technology marketing.
+Lumina illustrations should feel timeless, calm and recognisable.
 
-They should feel precise, human-centred and trustworthy.
+They should communicate knowledge, collaboration and intelligent library services rather than technology itself.
 
 ---
 
-## Core Style
+# Core Style
 
 Lumina illustrations are based on:
 
-- clean vector shapes
-- soft geometric forms
-- rounded corners
-- subtle gradients
-- restrained shadows
+- clean digital illustration
+- simplified geometric forms
+- subtle organic shapes
+- crisp edges
+- restrained gradients
 - generous whitespace
-- simplified interface elements
+- soft natural lighting
 - calm colour compositions
+- modern academic environments
 - clear visual hierarchy
 
-The overall impression should be modern, lightweight and professional.
+The style should balance illustration and graphic design.
 
-The style may include depth, but it should remain mostly flat.
+It should feel cleaner than a painting, but warmer than a vector illustration.
 
-Avoid dramatic perspective, heavy 3D effects or highly realistic rendering.
+Avoid photorealism.
+
+Avoid visible brush strokes.
+
+Avoid overly flat SaaS illustrations.
 
 ---
 
-## Visual Character
+# Visual Character
 
 Lumina illustrations should feel:
 
-- calm
-- structured
-- intelligent
 - academic
-- precise
-- approachable
+- calm
+- intelligent
 - contemporary
+- collaborative
+- optimistic
+- approachable
+- human
+- open
 - trustworthy
 
 They should not feel:
 
+- corporate
+- sales-oriented
+- futuristic
 - playful
 - childish
-- loud
-- futuristic
-- magical
 - decorative
-- overly corporate
+- aggressive
 - overly technical
+- science-fiction inspired
 
-The visual tone should be confident without becoming promotional.
+The atmosphere should feel like an innovative university rather than a technology company.
 
 ---
 
-## Shape Language
+# Illustration Style
 
-Use simple, soft and modular shapes.
+The preferred illustration style is:
+
+- clean digital editorial illustration
+- minimal painterly texture
+- crisp silhouettes
+- simplified facial features
+- soft natural shadows
+- smooth colour transitions
+- restrained detail
+- subtle depth
+
+Illustrations should feel intentionally designed.
+
+Not generated.
+
+Avoid:
+
+- heavy brush textures
+- visible paint strokes
+- sketch aesthetics
+- comic styles
+- manga
+- anime
+- photorealism
+
+The result should resemble high-quality editorial artwork rather than digital painting.
+
+---
+
+# Shape Language
+
+Use large, simple geometric forms.
 
 Preferred shapes include:
 
-- rounded rectangles
-- cards
-- panels
 - circles
-- nodes
 - soft arcs
-- flowing connection lines
-- layered blocks
-- simplified interface components
+- rounded rectangles
+- abstract colour fields
+- dotted patterns
+- flowing curves
+- modular blocks
 
-Shapes should feel stable and intentional.
+Large background shapes are encouraged.
 
-Avoid sharp, aggressive or chaotic forms.
+They create rhythm and subtly reinforce the Lumina visual identity.
 
 Avoid excessive decoration.
 
-Every shape should support the message of the visual.
+Every shape should support the composition.
 
 ---
 
-## Linework
+# Backgrounds
 
-Use linework sparingly.
+Backgrounds are bright, spacious and minimal.
 
-Lines are mainly used to show:
+Preferred environments include:
 
-- relationships
-- connections
-- flows
-- semantic links
-- process steps
-- interface structure
+- university libraries
+- collaborative study spaces
+- innovation labs
+- research environments
+- digital knowledge workspaces
+- calm coworking spaces
 
-Lines should be clean, thin and purposeful.
+Use:
 
-Avoid heavy black outlines.
-
-Avoid cartoon-like contour lines.
-
-Avoid messy network lines.
-
-Connection lines should help the viewer understand relationships, not create visual noise.
-
----
-
-## Depth and Shadows
-
-Use depth subtly.
-
-Acceptable depth techniques include:
-
-- soft shadows
-- slight layering
-- gentle overlaps
-- light gradients
-- muted background shapes
-- transparent panels
-
-Depth should help separate elements and create hierarchy.
+- natural daylight
+- white walls
+- glass
+- wood
+- plants
+- books
+- notebooks
+- laptops
+- open tables
 
 Avoid:
 
-- dramatic drop shadows
-- glossy reflections
-- realistic lighting
-- strong 3D perspective
-- glassmorphism as a dominant style
-- excessive glow effects
+- luxury offices
+- skyscrapers
+- board rooms
+- dark offices
+- industrial environments
+- server rooms
 
-Lumina visuals should feel calm and clear, not spectacular.
-
----
-
-## Gradients
-
-Gradients may be used, but only with restraint.
-
-Use gradients to create:
-
-- soft atmosphere
-- subtle depth
-- calm transitions
-- gentle emphasis
-
-Preferred gradients are based on ETH Blue, ETH Petrol, white and light grey shades.
-
-Avoid:
-
-- rainbow gradients
-- neon gradients
-- colourful SaaS-style gradients
-- high-contrast dramatic gradients
-- gradients that dominate the composition
-
-Gradients should support the image quietly.
-
-They should not become the main visual feature.
+The environment should communicate learning, curiosity and collaboration.
 
 ---
 
-## Interfaces
+# People
 
-Abstract interfaces are a central part of the Lumina style.
+People are central to the Lumina visual identity.
 
-Use simplified interface elements such as:
+Technology supports them.
 
-- search fields
-- result cards
-- metadata panels
-- dashboards
-- workflow steps
-- filters
-- graphs
-- tags
-- status indicators
-- document previews
-- API cards
-- review checkpoints
+It never replaces them.
 
-Interfaces should look plausible but not like real product screenshots.
+People should represent:
 
-They should explain concepts rather than imitate finished software.
-
-Avoid excessive detail.
-
-Avoid unreadable tables.
-
-Avoid realistic screenshots unless explicitly required.
-
----
-
-## People
-
-People may appear in Lumina illustrations when they help communicate purpose, expertise or human-centred AI.
-
-People should look:
-
-- calm
-- focused
-- professional
-- approachable
-- diverse
-- natural
-- engaged with knowledge work
-
-They may represent:
-
-- librarians
-- researchers
 - students
+- researchers
+- librarians
 - developers
 - data specialists
-- service owners
-- domain experts
+- PhD candidates
+- innovation teams
+- startup founders
+- interdisciplinary collaborators
 
-Use simplified facial features.
+People should appear:
+
+- curious
+- engaged
+- thoughtful
+- collaborative
+- relaxed
+- focused
+
+Use natural interactions:
+
+- discussing ideas
+- working together
+- reading
+- writing
+- researching
+- presenting
+- sketching
+- exploring knowledge
+
+Avoid staged corporate poses.
+
+Avoid handshake scenes.
 
 Avoid exaggerated emotions.
 
-Avoid generic stock-photo business poses.
-
-Avoid making people look like cartoon characters.
-
-People should support the story, not dominate every visual.
+Avoid smiling for the camera.
 
 ---
 
-## Knowledge Objects
+# Clothing
 
-Lumina often deals with abstract knowledge structures.
+People should wear casual academic clothing.
 
-Use visual objects such as:
+Examples:
 
-- document cards
-- book-like shapes
-- article previews
-- dataset cards
-- metadata tags
-- subject labels
-- semantic clusters
-- knowledge graph nodes
-- collection panels
-- linked resources
-
-These objects should be simplified and symbolic.
-
-They do not need to contain readable text.
-
-When text appears inside generated images, keep it minimal and avoid relying on it for meaning.
-
----
-
-## AI Representation
-
-AI should be represented indirectly.
-
-Use visual metaphors such as:
-
-- semantic relationships
-- enriched metadata
-- suggested connections
-- workflow assistance
-- highlighted patterns
-- intelligent recommendations
-- review support
-- subtle agent indicators
-
-Avoid direct AI clichés such as:
-
-- humanoid robots
-- glowing brains
-- magic sparkles
-- sci-fi holograms
-- binary code backgrounds
-- autonomous machine characters
-
-Lumina AI is an enabling layer, not a character.
-
----
-
-## Data and Semantics
-
-Data should not be shown as abstract chaos.
-
-Prefer structured representations:
-
-- flows
-- layers
-- cards
-- clusters
-- pathways
-- modular systems
-- readable networks
-- semantic groupings
-
-Embeddings and semantic spaces may be shown as calm clusters of related objects.
-
-Knowledge graphs should be readable and selective, not dense or chaotic.
-
-Metadata should be shown as structure, enrichment and context.
-
----
-
-## Text in Illustrations
-
-Avoid relying on generated text inside illustrations.
-
-Image generation models often create unreadable or incorrect text.
-
-When text-like elements are needed, use:
-
-- abstract lines
-- simple labels
-- short placeholder words
-- symbolic headings
-- minimal UI text
-
-Important titles, labels or explanations should normally be added later in the presentation, web layout or design tool.
-
----
-
-## Logo and Branding
-
-Do not place the ETH logo or Lumina logo inside generated illustrations unless explicitly required.
-
-The visual identity should be recognisable through colour, composition and style.
-
-Official logos should be added separately in the final design environment when needed.
-
-This prevents distorted or incorrect logo generation.
-
----
-
-## Level of Detail
-
-Use moderate detail.
-
-A Lumina illustration should contain enough detail to explain the concept, but not so much detail that the visual becomes difficult to read.
-
-Preferred approach:
-
-- one clear focal point
-- a few supporting elements
-- meaningful relationships
-- calm background
-- visible whitespace
+- hoodies
+- sweaters
+- knitwear
+- casual shirts
+- jeans
+- chinos
+- sneakers
+- simple jackets
 
 Avoid:
 
-- overcrowded diagrams
-- too many icons
-- tiny unreadable labels
-- excessive panels
-- decorative complexity
+- business suits
+- ties
+- luxury fashion
+- formal office wear
 
-Simplification is a strength.
+The visual language should resemble a university campus rather than a corporate office.
 
 ---
 
-## Preferred Visual Atmosphere
+# Objects
 
-Lumina illustrations should feel like:
+Objects should support academic work.
 
-- a thoughtful digital library environment
-- a calm knowledge workspace
-- an intelligent academic service layer
-- a structured semantic system
-- a human-centred AI workflow
+Preferred objects include:
 
-They should not feel like:
+- books
+- journals
+- notebooks
+- laptops
+- tablets
+- pens
+- coffee mugs
+- reusable water bottles
+- plants
+- whiteboards
+- sticky notes
+- research papers
 
-- a sci-fi control room
+Technology should appear naturally integrated into the workspace.
+
+Avoid unnecessary gadgets.
+
+---
+
+# Interfaces
+
+Interfaces are supporting elements.
+
+They should rarely dominate the illustration.
+
+Use interfaces only when they help explain a concept.
+
+Preferred interface elements:
+
+- search bars
+- document previews
+- metadata cards
+- dashboards
+- workflow cards
+- semantic graphs
+- review panels
+
+Interfaces should be simplified.
+
+Avoid:
+
+- realistic screenshots
+- dense dashboards
+- unreadable text
+- excessive UI cards
+
+People and knowledge should remain the primary focus.
+
+---
+
+# Linework
+
+Use linework sparingly.
+
+Lines are mainly used to communicate:
+
+- relationships
+- semantic connections
+- workflows
+- data movement
+- collaboration
+
+Lines should be:
+
+- thin
+- elegant
+- understated
+- purposeful
+
+Avoid heavy outlines.
+
+Avoid cartoon contour lines.
+
+---
+
+# Depth and Shadows
+
+Use subtle depth.
+
+Preferred techniques:
+
+- soft shadows
+- gentle layering
+- atmospheric perspective
+- restrained gradients
+
+Depth should separate elements naturally.
+
+Avoid dramatic lighting.
+
+Avoid glossy effects.
+
+Avoid excessive glassmorphism.
+
+---
+
+# Colour Atmosphere
+
+The overall colour impression should remain light and calm.
+
+Dominant colours:
+
+- white
+- ETH Blue
+- black
+
+Supporting colours:
+
+- ETH Petrol
+- ETH Grey
+
+Accent colours should remain subtle.
+
+Large white surfaces are encouraged.
+
+Colour should create calmness before emphasis.
+
+---
+
+# Knowledge Representation
+
+Knowledge should appear tangible.
+
+Prefer:
+
+- books
+- documents
+- notes
+- collections
+- semantic relationships
+- research artefacts
+- visual clusters
+
+Avoid representing knowledge exclusively through interface panels.
+
+Knowledge should feel like something people actively work with.
+
+---
+
+# AI Representation
+
+AI should remain almost invisible.
+
+Represent AI through:
+
+- better connections
+- semantic relationships
+- recommendations
+- enriched metadata
+- intelligent workflows
+- subtle guidance
+
+Avoid:
+
+- robots
+- glowing brains
+- holograms
+- magical effects
+- science-fiction imagery
+
+AI is an enabling layer.
+
+People remain the protagonists.
+
+---
+
+# Level of Detail
+
+Prefer medium detail.
+
+Every illustration should have:
+
+- one focal point
+- generous whitespace
+- a limited number of important elements
+- calm supporting details
+
+Avoid visual clutter.
+
+Avoid excessive interface components.
+
+Avoid overly dense diagrams.
+
+---
+
+# Overall Atmosphere
+
+A Lumina illustration should feel like:
+
+- ETH Zurich
+- a modern research university
+- a collaborative innovation space
+- an inspiring academic environment
+- a thoughtful digital library
+- a place where knowledge is created and shared
+
+It should never feel like:
+
+- a SaaS marketing website
 - a startup pitch deck
-- a gaming interface
-- a cybersecurity dashboard
-- a generic AI advertisement
+- a corporate office
+- a cybersecurity control room
+- a science-fiction movie
 
 ---
 
-## Style Summary
+# Style Summary
 
 A successful Lumina illustration is:
 
-- vector-based
-- calm
-- clear
+- modern
+- editorial
 - academic
+- collaborative
 - human-centred
-- semantically meaningful
-- ETH-aligned
-- visually restrained
-- suitable for presentations and web use
+- calm
+- bright
+- clean
+- trustworthy
+- timeless
 
-The illustration should make a complex Lumina concept feel understandable, trustworthy and useful.
+It combines the clarity of digital product illustration with the warmth of contemporary editorial artwork.
+
+The image should immediately feel like it belongs to the Lumina ecosystem.
