@@ -22,14 +22,14 @@ Lumina illustrations are based on:
 - crisp edges
 - restrained gradients
 - generous whitespace
-- soft natural lighting
+- soft neutral daylight
 - calm colour compositions
 - modern academic environments
 - clear visual hierarchy
 
 The style should balance illustration and graphic design.
 
-It should feel cleaner than a painting, but warmer than a vector illustration.
+It should feel cleaner than a painting, but more human and tactile than a vector illustration, without using a warm yellow, beige or sepia colour cast.
 
 Avoid photorealism.
 
@@ -140,10 +140,10 @@ Preferred environments include:
 
 Use:
 
-- natural daylight
+- neutral daylight
 - white walls
 - glass
-- wood
+- light, desaturated wood accents
 - plants
 - books
 - notebooks
@@ -345,6 +345,8 @@ Avoid excessive glassmorphism.
 
 The overall colour impression should remain light and calm.
 
+The overall colour temperature should remain neutral to slightly cool.
+
 Dominant colours:
 
 - white
@@ -359,6 +361,14 @@ Supporting colours:
 Accent colours should remain subtle.
 
 Large white surfaces are encouraged.
+
+White surfaces should read as clean white or very light neutral grey, not ivory or cream.
+
+Avoid yellow, cream, beige, sepia or golden colour casts in backgrounds.
+
+Warmth should come from human interaction, soft shadows and natural materials, not from a yellow-tinted palette.
+
+Wood, if used, should be subtle, light and desaturated.
 
 Colour should create calmness before emphasis.
 
