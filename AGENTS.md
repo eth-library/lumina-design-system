@@ -117,7 +117,9 @@ Avoid:
 - cyberpunk aesthetics
 - binary-code backgrounds
 - exaggerated comic style
-- photorealism
+- fully photorealistic scenes
+- photorealistic environments and interfaces
+- generic stock-photo aesthetics
 - cluttered dashboards
 - rainbow colour palettes
 - generic stock-photo aesthetics
@@ -135,6 +137,16 @@ If image generation is available, create the image using a prompt derived from t
 If image generation is not available, return a complete image-generation prompt that can be used in another image model.
 
 Do not claim that an image has been generated unless an image-generation tool was actually used.
+
+---
+
+## Hybrid Illustration Rule
+
+When people appear in Lumina illustrations, render them semi-photorealistically.
+
+Keep environments, interfaces, objects and knowledge structures in the Lumina editorial illustration style.
+
+The contrast between realistic people and illustrated surroundings is a deliberate part of the Lumina visual identity.
 
 ---
 
