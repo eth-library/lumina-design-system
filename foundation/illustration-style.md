@@ -31,8 +31,6 @@ The style should balance illustration and graphic design.
 
 It should feel cleaner than a painting, but more human and tactile than a vector illustration, without using a warm yellow, beige or sepia colour cast.
 
-Avoid photorealism.
-
 Avoid visible brush strokes.
 
 Avoid overly flat SaaS illustrations.
@@ -77,7 +75,6 @@ The preferred illustration style is:
 - clean digital editorial illustration
 - minimal painterly texture
 - crisp silhouettes
-- simplified facial features
 - soft natural shadows
 - smooth colour transitions
 - restrained detail
@@ -163,9 +160,58 @@ The environment should communicate learning, curiosity and collaboration.
 
 ---
 
+# Hybrid Human Rendering
+
+Lumina uses a deliberate contrast between people and their visual environment.
+
+People should be rendered with a higher degree of realism than the surrounding illustration.
+
+Preferred human rendering:
+
+- semi-photorealistic
+- natural facial features
+- realistic skin and hair texture
+- realistic body proportions
+- natural hands and gestures
+- believable fabric and clothing texture
+- soft natural lighting
+- subtle photographic detail
+
+People should feel tangible, contemporary and human.
+
+They should visually stand out from the more abstract editorial environment.
+
+The surrounding environment must remain clearly illustrated.
+
+Do not extend photorealism to:
+
+- interfaces
+- dashboards
+- furniture
+- architecture
+- books
+- documents
+- metadata cards
+- knowledge graphs
+- workflow elements
+- background environments
+
+This contrast is intentional.
+
+People represent human expertise and responsibility.
+The illustrated environment represents systems, knowledge structures and digital services.
+
+---
+
 # People
 
 People are central to the Lumina visual identity.
+
+People should be the most visually realistic elements in a Lumina illustration.
+
+Use semi-photorealistic rendering for people while keeping the surrounding visual language editorial and illustrative.
+
+People should appear naturally integrated into the scene through consistent lighting, perspective and colour atmosphere, while remaining visibly more detailed than their environment.
 
 Technology supports them.
 
