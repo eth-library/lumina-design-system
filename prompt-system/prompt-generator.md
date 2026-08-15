@@ -309,9 +309,14 @@ Composition: [composition pattern]. The focal point should be [focal point]. Inc
 
 Use ETH Blue, black and white as the primary colour basis. Use ETH Petrol and ETH Grey as restrained secondary colours. Use accent colours only if they add semantic meaning.
 
-Style: clean vector shapes, soft geometric forms, rounded UI cards, subtle gradients, restrained shadows, generous whitespace and minimal detail.
+Rendering style:
+People: Render people in a semi-photorealistic, naturalistic editorial style with realistic anatomy, facial features, hair, skin, clothing textures and natural poses.
 
-Avoid photorealism, heavy outlines, robots, glowing AI brains, cyberpunk aesthetics, binary-code backgrounds, rainbow palettes, cluttered dashboards, real product screenshots and generic AI clichés.
+Environment and visual system: Render interfaces, architecture, furniture, documents, metadata structures and supporting objects in the Lumina clean digital editorial illustration style using simplified geometric forms, crisp edges, subtle gradients and restrained detail.
+
+The stylistic contrast between realistic people and illustrated surroundings is intentional.
+
+Avoid heavy outlines, robots, glowing AI brains, cyberpunk aesthetics, binary-code backgrounds, rainbow palettes, cluttered dashboards, real product screenshots and generic AI clichés.
 ```
 
 ---
@@ -325,7 +330,7 @@ The negative prompt should protect the Lumina visual identity.
 Default negative prompt:
 
 ```text
-photorealistic, 3D render, anime, childish cartoon, comic exaggeration, thick black outlines, glossy effects, neon sci-fi, cyberpunk, robot, humanoid AI, glowing brain, hologram, binary code background, matrix code, magical sparkles, cluttered dashboard, unreadable text, distorted logos, fake product screenshot, generic stock photo, rainbow palette, overly colourful gradients, chaotic network, server room, data centre, surveillance control room
+fully photorealistic environment, photorealistic architecture, photorealistic interface, stock-photo office scene, corporate stock photography, people in business suits, glossy commercial photography, cinematic realism, hyperrealistic environment, 3D render, anime, childish cartoon, comic exaggeration, thick black outlines, glossy effects, neon sci-fi, cyberpunk, robot, humanoid AI, glowing brain, hologram, binary code background, matrix code, magical sparkles, cluttered dashboard, unreadable text, distorted logos, fake product screenshot, generic stock photo, rainbow palette, overly colourful gradients, chaotic network, server room, data centre, surveillance control room
 ```
 
 Adjust the negative prompt when needed.
