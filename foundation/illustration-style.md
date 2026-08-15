@@ -92,7 +92,7 @@ Avoid:
 - comic styles
 - manga
 - anime
-- photorealism
+- photorealistic environments
 
 The result should resemble high-quality editorial artwork rather than digital painting.
 
