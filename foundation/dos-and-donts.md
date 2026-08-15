@@ -70,6 +70,16 @@ People should represent expertise, judgement and interpretation.
 
 ---
 
+## Use Human–Illustration Contrast
+
+Render people with naturalistic, semi-photorealistic detail.
+
+Keep surrounding systems, interfaces, objects and environments clearly illustrative.
+
+Use the difference in visual realism to reinforce the human-centred nature of Lumina.
+
+---
+
 ## Use Abstract Interfaces
 
 Use simplified interface elements to explain concepts.
@@ -210,6 +220,16 @@ Important text should usually be added later in PowerPoint, Figma or the web lay
 ---
 
 # Don't
+
+## Don't Turn the Entire Scene Photorealistic
+
+Semi-photorealistic rendering is reserved for people.
+
+Do not render the whole scene as photography.
+
+Do not create generic office photography or stock-photo scenes.
+
+---
 
 ## Don't Use Robots as the Default Symbol for AI
 
