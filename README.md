@@ -54,17 +54,18 @@ The visual language deliberately combines two levels of realism:
 
 ### People
 
-People are rendered with a higher degree of realism.
+Preferred Lumina people style: editorial illustrated humans with subtle naturalistic depth, not photorealistic, not flat vector.
 
 Preferred human rendering is:
 
-- semi-photorealistic
-- naturalistic
-- realistic in anatomy and proportions
-- detailed in skin, hair and fabric
-- softly lit
-- calm and credible
-- integrated naturally into the illustrated scene
+- editorial illustrated humans with subtle naturalistic depth
+- authentic facial proportions
+- believable expressions and gestures
+- smooth skin shading without photographic pores
+- simplified hair masses with restrained detail
+- clean clothing folds with reduced fabric microtexture
+- natural hands, but simplified shading
+- clearly not photographic, clearly not flat vector
 
 People should wear **casual academic clothing**, for example:
 
