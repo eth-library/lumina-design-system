@@ -142,7 +142,7 @@ Do not claim that an image has been generated unless an image-generation tool wa
 
 ## Hybrid Illustration Rule
 
-When people appear in Lumina illustrations, render them semi-photorealistically.
+Preferred Lumina people style: editorial illustrated humans with subtle naturalistic depth, not photorealistic, not flat vector.
 
 Keep environments, interfaces, objects and knowledge structures in the Lumina editorial illustration style.
 
