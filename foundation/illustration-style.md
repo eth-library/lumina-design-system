@@ -168,14 +168,14 @@ People should be rendered with a higher degree of realism than the surrounding i
 
 Preferred human rendering:
 
-- semi-photorealistic
-- natural facial features
-- realistic skin and hair texture
-- realistic body proportions
-- natural hands and gestures
-- believable fabric and clothing texture
-- soft natural lighting
-- subtle photographic detail
+- editorial illustrated humans with subtle naturalistic depth
+- authentic facial proportions
+- believable expressions and gestures
+- smooth skin shading without photographic pores
+- simplified hair masses with restrained detail
+- clean clothing folds with reduced fabric microtexture
+- natural hands, but simplified shading
+- clearly not photographic, clearly not flat vector
 
 People should feel tangible, contemporary and human.
 
@@ -305,6 +305,8 @@ Preferred objects include:
 - research papers
 
 Technology should appear naturally integrated into the workspace.
+
+Physical objects such as laptops, bottles, cups, phones, books, notebooks, tables and chairs must remain clearly illustrated: matte surfaces, simplified geometry, reduced reflections, minimal material texture, no product-photography realism.
 
 Avoid unnecessary gadgets.
 
