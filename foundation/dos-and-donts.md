@@ -72,7 +72,8 @@ People should represent expertise, judgement and interpretation.
 
 ## Use Human–Illustration Contrast
 
-Render people with naturalistic, semi-photorealistic detail.
+Do: use editorial illustrated people with subtle naturalistic depth.
+Don't: make people look like photographs or flat vector mascots.
 
 Keep surrounding systems, interfaces, objects and environments clearly illustrative.
 
