@@ -224,7 +224,7 @@ Important text should usually be added later in PowerPoint, Figma or the web lay
 
 ## Don't Turn the Entire Scene Photorealistic
 
-Semi-photorealistic rendering is reserved for people.
+People may have subtle naturalistic depth, but they should still be clearly illustrated.
 
 Do not render the whole scene as photography.
 

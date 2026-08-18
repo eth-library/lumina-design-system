@@ -209,7 +209,9 @@ People are central to the Lumina visual identity.
 
 People should be the most visually realistic elements in a Lumina illustration.
 
-Editorial illustrated humans with subtle naturalistic depth, not photorealistic, not flat vector. Keeping the surrounding visual language editorial and illustrative.
+Render people as editorial illustrated humans with subtle naturalistic depth, not photorealistic and not flat vector.
+
+Keep the surrounding visual language editorial and illustrative.
 
 People should appear naturally integrated into the scene through consistent lighting, perspective and colour atmosphere, while remaining visibly more detailed than their environment.
 

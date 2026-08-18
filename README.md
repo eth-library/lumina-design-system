@@ -241,8 +241,9 @@ A typical AI-assisted workflow is:
 7. Select an appropriate composition pattern.
 8. Apply the Lumina colour system.
 9. Apply the hybrid rendering rule:
-   - people are semi-photorealistic
-   - environments, interfaces and objects remain editorially illustrated
+   - people are editorial illustrated humans with subtle naturalistic depth
+   - people are not photographic and not flat vector
+   - environments, interfaces and objects remain clearly editorially illustrated
 10. Generate the image prompt or final illustration.
 11. Verify the result against the Lumina Design System before delivery.
 
@@ -256,18 +257,18 @@ The AI model decides **how to create it**.
 
 When people appear in a Lumina illustration:
 
-**Render people semi-photorealistically.**
+**Render people as editorial illustrated humans with subtle naturalistic depth.**
 
 Use:
 
-- natural facial features
-- realistic skin and hair texture
-- realistic body proportions
-- natural hands and gestures
-- believable clothing textures
+- authentic facial proportions
+- smooth skin shading without photographic pores
+- simplified hair masses with restrained detail
+- natural hands and gestures with simplified shading
+- clean clothing folds with reduced fabric microtexture
 - soft natural lighting
-- subtle photographic detail
 - casual academic clothing
+- a clearly illustrated appearance, not a photographic one
 
 At the same time:
 
@@ -468,7 +469,7 @@ Before using or publishing a Lumina visual, ask:
 - Is there one clear main idea?
 - Are knowledge, people or library services central?
 - Does technology support the story rather than dominate it?
-- Are people semi-photorealistic when present?
+- Are people editorial illustrated humans with subtle naturalistic depth when present?
 - Does the surrounding environment remain editorially illustrated?
 - Are casual academic clothing and natural poses used?
 - Are ETH Blue, black and white the primary colour basis?
